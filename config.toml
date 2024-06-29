@@ -1,4 +1,7 @@
-baseURL = "http://dukefeb1.s3-website-us-east-1.amazonaws.com"
+baseURL = "http://kithomak-hugo.s3-website-us-west-2.amazonaws.com"
 languageCode = "en-us"
-title = "My New Hugo Sit via AWS Cloud9"
-theme = "ananke"
+title = "My New Hugo Site via AWS Cloud9"
+theme = "personal-web"
+[[deployment.targets]]
+name = "awsbucket"
+URL = "s3://kithomak-hugo/?region=us-west-2"
