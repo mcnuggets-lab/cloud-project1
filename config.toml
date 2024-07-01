@@ -1,7 +1,7 @@
-baseURL = "http://kithomak-hugo.s3-website-us-west-2.amazonaws.com"
+baseURL = "http://kithomak-cloud-project-1.s3-website-us-west-2.amazonaws.com"
 languageCode = "en-us"
 title = "My New Hugo Site via AWS Cloud9"
 theme = "personal-web"
 [[deployment.targets]]
 name = "awsbucket"
-URL = "s3://kithomak-hugo/?region=us-west-2"
+URL = "s3://kithomak-cloud-project-1/?region=us-west-2"
