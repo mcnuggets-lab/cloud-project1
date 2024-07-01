@@ -1,4 +1,4 @@
-# dukehugofeb1
+# cloud-project-1
 this is a Hugo continuous delivery site
 
 ![Course1-Hugo-CD](https://user-images.githubusercontent.com/58792/107864165-cd2d2580-6e27-11eb-8607-ed0b7d80c995.jpg)
