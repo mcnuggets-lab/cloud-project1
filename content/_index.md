@@ -8,7 +8,7 @@ Hey,
 
 I'm Kit-Ho Mak.
 
-This site is not really my personal webpage. I build it in AWS (mainly Cloud9, S3 and CodeBuild) for learning CICD in AWS.
+This site is not really my personal webpage. I build it in AWS (mainly Cloud9, S3 and CodeBuild) for learning CICD in AWS. AWS CloudFront is used for HTTPS hosting.
 
 You may find the source code [here](https://github.com/mcnuggets-lab/cloud-project1).
 

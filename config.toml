@@ -1,4 +1,4 @@
-baseURL = "http://kithomak-cloud-project-1.s3-website-us-west-2.amazonaws.com"
+baseURL = "https://d1tw5y34behm55.cloudfront.net"
 languageCode = "en-us"
 title = "My New Hugo Site via AWS Cloud9"
 theme = "personal-web"
