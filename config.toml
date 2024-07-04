@@ -1,6 +1,6 @@
 baseURL = "https://d1tw5y34behm55.cloudfront.net"
 languageCode = "en-us"
-title = "My New Hugo Site via AWS Cloud9"
+title = "My New Hugo Site via AWS"
 theme = "personal-web"
 copyright="© Kit-Ho Mak"
 googleAnalytics = ""

@@ -4,8 +4,8 @@
 
 This is a Hugo continuous delivery site.
 
-![Course1-Hugo-CD](https://user-images.githubusercontent.com/58792/107864165-cd2d2580-6e27-11eb-8607-ed0b7d80c995.jpg)
+![Hugo-CD](https://user-images.githubusercontent.com/58792/107864165-cd2d2580-6e27-11eb-8607-ed0b7d80c995.jpg)
 
 This repo is based on https://github.com/noahgift/dukehugofeb1, with a few modifications to make it work. The aim is for me to learn MLOps in AWS environment only, so the website built is very raw.
 
-You may visit the built website [here](http://kithomak-cloud-project-1.s3-website-us-west-2.amazonaws.com/).
+You may visit the built website [here](https://d1tw5y34behm55.cloudfront.net).
