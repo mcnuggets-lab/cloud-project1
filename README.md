@@ -4,7 +4,7 @@
 
 This is a Hugo continuous delivery site.
 
-![Architecture]![architecture](https://github.com/mcnuggets-lab/cloud-project1/assets/16054484/5366d72c-2149-43e9-8258-b7eaf6f78118)
+![architecture](https://github.com/mcnuggets-lab/cloud-project1/assets/16054484/5366d72c-2149-43e9-8258-b7eaf6f78118)
 
 This repo is based on https://github.com/noahgift/dukehugofeb1, with a few modifications to make it work. The aim is for me to learn MLOps in AWS environment only, so the website built is very raw.
 
