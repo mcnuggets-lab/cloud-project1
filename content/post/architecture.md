@@ -7,4 +7,4 @@ publishDate: "2024-07-04T12:03:16+08:00"
 
 Here I try to explain the architecture of this site using my own words.
 
-![Hugo-CD](https://user-images.githubusercontent.com/58792/107864165-cd2d2580-6e27-11eb-8607-ed0b7d80c995.jpg)
+![Hugo-CD](https://github.com/mcnuggets-lab/cloud-project1/assets/16054484/5366d72c-2149-43e9-8258-b7eaf6f78118)
