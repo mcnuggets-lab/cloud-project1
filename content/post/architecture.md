@@ -30,6 +30,7 @@ S3 policies and scripts that I used can be found in the repo. Since every resour
 
 Things that I considered by did not do (mainly because there is a cost):
 
+- Use a CloudFormation Template to start. This is one of the standard use cases supported by CloudFormation Template, so using a template could save a lot of hassles, but building the architecture from scratch allows me to learn more.
 - Enable security for the CloudFront distribution. This makes the site safe from the likes of DDoS attacks and more, but comes with a cost.
 - Config and use a custom domain name.
-- Invalid the website cache during CodeBuild process. This makes sure the website served is always up-to-date. However, the limit for number of invalidation requests per month is quite small if you push codes often. After the limit there is a cost.
+- Invalidate the website cache during CodeBuild process. This makes sure the website served is always up-to-date. However, the limit for number of invalidation requests per month is quite small if you push codes often. After the limit there is a cost.
