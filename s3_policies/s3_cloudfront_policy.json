@@ -9,7 +9,7 @@
                 "Service": "cloudfront.amazonaws.com"
             },
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::kithomak-cloud-project-1/*",
+            "Resource": "arn:aws:s3:::kithomak-cloud-project1/*",
             "Condition": {
                 "StringEquals": {
                     "AWS:SourceArn": "arn:aws:cloudfront::770901818073:distribution/E3K98LZUDMNE32"
@@ -23,7 +23,7 @@
 				"AWS": "arn:aws:iam::cloudfront:user/CloudFront Origin Access Identity E2FICUM24DSXQ7"
 			},
 			"Action": "s3:GetObject",
-			"Resource": "arn:aws:s3:::kithomak-cloud-project-1/*"
+			"Resource": "arn:aws:s3:::kithomak-cloud-project1/*"
 		}
 	]
 }
